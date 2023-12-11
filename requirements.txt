@@ -1,0 +1,5 @@
+boto3==1.33.11
+pytest==7.4.3
+requests==2.31.0
+responses==0.24.1
+setuptools==69.0.2
